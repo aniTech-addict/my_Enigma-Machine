@@ -4,7 +4,6 @@
 
 class rotors{
     vector<vector<char>> rotors;
-    vector 
 };
 
 class keyboard{
